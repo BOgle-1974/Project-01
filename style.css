@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+    width: 100%;
+    background-image: url(CKD.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+    clear: left;
+}
+
+.icon{
+    width: 200px;
+    float: auto;
+    height: 70px;
+}
+
+.logo{
+    color:rgb(110, 38, 193); 
+    font-size: 45px;
+    font-family:Georgia, 'Times New Roman', Serif;
+    padding-left: 0px;
+    float: left;
+    padding-top: 10px;
+}
+
+ul{
+    List-style: inline-block;
+}
+li{
+        display: inline-block;
+        font-size: 20px;
+        margin-right: 10px;
+    }
+
+.content {
+    display: right;
+}
+
+#search {
+    display: right;
+}
